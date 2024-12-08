@@ -58,7 +58,7 @@ yarn dev
 
 ## Contributing 🤝
 
-We welcome contributions! Here's how you can help:
+Contributions are welcomed! Here's how you can help:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
