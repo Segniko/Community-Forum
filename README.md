@@ -12,7 +12,7 @@ A modern, interactive community forum built with React and Node.js where users c
 - 🌙 Dark/Light Mode Toggle
 - 🔔 Real-time Notifications
 
-A small preview:
+A Small Preview:
 ![Screenshot 2024-12-08 145925](https://github.com/user-attachments/assets/63b3fb60-48a1-40c1-b241-6607f7afd540)
 
 ## Tech Stack 🛠️
