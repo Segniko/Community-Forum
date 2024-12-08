@@ -74,8 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you like this project, please give it a ⭐️!
 
-## Contact 📧
-Email: segniassaye2@gmail.com
----
-
 Made with Segni Assaye! Hope you like it!
